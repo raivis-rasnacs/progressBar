@@ -9,3 +9,5 @@ while progress != 100:
   print(progress, "%")
   sleep(0.5)
   os.system("clear")
+else:
+  print("Ielāde pabeigta!")
